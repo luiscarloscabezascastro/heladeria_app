@@ -1,0 +1,6 @@
+package com.example.heladeria_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
